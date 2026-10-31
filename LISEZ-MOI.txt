@@ -1,0 +1,8 @@
+EXPORT MP3 - MODE D’EMPLOI
+
+Télécharger lame.min.js : https://cdn.jsdelivr.net/npm/lamejs@1.2.1/lame.min.js
+Déposer lame.min.js à côté de index.html dans le dépôt GitHub.
+Remplacer index.html et conserver le dossier sons/.
+Le MP3 est encodé localement (mono, 96 kbit/s).
+Sans lame.min.js, l’export MP3 ne fonctionne pas.
+La bibliothèque lamejs est sous licence LGPL-3.0 ; conserver les mentions de licence.
